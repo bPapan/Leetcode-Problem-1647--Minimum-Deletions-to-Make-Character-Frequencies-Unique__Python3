@@ -1,5 +1,7 @@
 # Leetcode-Problem-1647--Minimum-Deletions-to-Make-Character-Frequencies-Unique__Python3
 
+This solution is posted also in https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/discuss/1146503/python3-easy-solution-using-dictionary 
+
 ## Description
 
 A string _s_ is called good if there are no two different characters in _s_ that have the same frequency.
